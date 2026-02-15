@@ -1,23 +1,31 @@
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=Abdalrahman-Alhamod&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src="https://github.com/Abdalrahman-Alhamod/Abdalrahman-Alhamod/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
+<details>
+<summary>Open profile</summary>
+
+<br>
+<div>
+  <div align=center>
+      <img height="200" alt="Avatar" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+  </div>
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6DB33F&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Abdalrahman+Alhamod;Software+%26+AI+Engineer;Full+Stack+Developer;Always+learning+new+things;Feel+free+to+look+around+👀" alt="Typing SVG" /></a>
+  </div>
 </div>
+</details>
 
-<p align="center">
-  <img src="https://github.com/Abdalrahman-Alhamod/Abdalrahman-Alhamod/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
-<h3 align="center">
-  Hi, I'm Abdalrahman Alhamod
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Full+Stack+Developer;Always%20learning%20new%20things;Reach%20out%20if%20you%20need%20help!%20💬&font=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
+</div>
 
 ---
 
